@@ -1,0 +1,59 @@
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: “Helvetica Neue”, Arial, Helvetica, sans-serif;
+	font-size: 75%;
+	color: #666;
+}
+
+h1 {
+	text-indent: -9000px;
+	height: 0px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+h2 {
+	text-indent: -9000px;
+	height: 0px;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+a {
+	color: #39c;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a.nostyle, a.nostyle:hover {
+	color: #666;
+	text-decoration: none;
+}
+
+p {
+	text-align: center;
+	margin: 4px 0;
+}
+
+
+/* DIV TAGS */
+
+#container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -50px 0 0 -150px;
+	padding: 100px 0 0 0;
+	width: 300px;
+	height: 100px;
+	background: url(../files/images/chrisgargiulo-logo.png) no-repeat top center;
+}
