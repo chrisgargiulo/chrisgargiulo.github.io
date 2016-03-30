@@ -1,1 +1,1 @@
-# [Chris Gargiulo's Github Page] (https://github.com/chrisgargiulo/)
+# [Chris Gargiulo's Github Page] (http://chrisgargiulo.github.io/)
